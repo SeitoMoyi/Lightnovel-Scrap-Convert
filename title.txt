@@ -1,0 +1,6 @@
+---
+title: The Main Heroines are Trying to Kill Me
+author: Kim Mamo
+language: en-US
+cover-image: cover.jpg
+...
